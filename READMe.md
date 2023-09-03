@@ -12,4 +12,9 @@ yarn add typescript ts-node
 
 ```
 
+```
+yarn add @types/fs-extra
+
+```
+
 
